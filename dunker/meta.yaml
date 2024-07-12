@@ -5,7 +5,8 @@ lang: "en"
 journal: "LIBREAS. Library Ideas"
 issue: "45"
 year: "2024"
-contributor: "Sabine Dunker"
+contributor: 
+  - "Sabine Dunker"
 title: "Eindrücke von einem Dienstag (dem ausleihstärksten Tag der Woche) aus der Gemeindebücherei Grasbrunn im Dezember 2023"
 pdf: "main.pdf"
 date: 2024-07-01

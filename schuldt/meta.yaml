@@ -5,7 +5,8 @@ lang: "de"
 journal: "LIBREAS. Library Ideas"
 issue: "45"
 year: "2024"
-contributor: "Karsten Schuldt"
+contributor: 
+  - "Karsten Schuldt"
 title: "Musik und Volksbüchereien in Deutschland, 1900–1945"
 abstract: "Die Frage, ob «Musikalien» wie Noten oder Musikliteratur Teil
 der Volksbüchereien, also der Vorgänger der heutigen Öffentlichen
