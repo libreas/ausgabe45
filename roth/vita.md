@@ -1,12 +1,10 @@
 ---
-**Michel Roth** (Orcid: 0000-0002-0300-9110), geboren in Altdorf (Uri), ist
+**Michel Roth** (<https://orcid.org/0000-0002-0300-9110>, <https://www.fhnw.ch/de/personen/michel-roth>), geboren in Altdorf (Uri), ist
 Komponist und Professor für Komposition, Musiktheorie und Artistic Research an
 der Hochschule für Musik der Musik-Akademie Basel (FHNW). Er forscht und
 publiziert über musikalische Anwendungen von Spieltheorie und Kybernetik
 (Promotion an der Universität Basel), Organologie der zeitgenössischen Musik
-und alpine Klangsoziologie (Singende Seile").
-
-<https://www.fhnw.ch/de/personen/michel-roth>
+und alpine Klangsoziologie ("Singende Seile").
 
 
 **Felicitas Erb** ist klassische Sängerin und
@@ -14,7 +12,7 @@ Musikvermittlerin, spezialisiert auf Lied- und Konzertgesang. Für ihre
 CD-Einspielungen erhielt sie zahlreiche Auszeichnungen, darunter eine
 Nominierung für den Opus Klassik als Sängerin des Jahres 2023. Als
 Musikvermittlerin war sie am Opernhaus Zürich tätig und arbeitet nun an ihrem
-Forschungsprojekt Musikvermittlung als kreativ-kritische Praxis" an der
+Forschungsprojekt "Musikvermittlung als kreativ-kritische Praxis" an der
 Hochschule für Musik Basel.
 
 **Anna Alexay** studiert Schulmusik II C mit Hauptfach Musikwissenschaft in
